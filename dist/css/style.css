@@ -39,7 +39,7 @@ body {
 
 .hero__image {
   position: relative;
-  background-image: url("/images/Michael_HDSHT-2r.jpg");
+  background-image: url("../images/Michael_HDSHT-2r.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
